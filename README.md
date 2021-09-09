@@ -5,4 +5,4 @@
 ## 2주차
   - Github사용법
 
-<img width="300" height="300" src="./png/Roger.jpg"></img>
+<img width="300" height="300" src="./png/로저.jpg"></img>
