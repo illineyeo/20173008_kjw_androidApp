@@ -5,5 +5,5 @@
 ## 2주차
   - Github사용법
 
-<img width="700" height="700" src="./png/20173008_김지원_캡스톤2주차과제.jpg"></img>
+<img width="700" height="700" src="./png/220173008김지원_2주차과제.png"></img>
 
