@@ -94,3 +94,8 @@ a.
 <img width="700" height="1000" src="./png/20173008김지원_졸업작품1.png"></img>
 <img width="700" height="1000" src="./png/20173008김지원_졸업작품2.png"></img>
 <img width="700" height="1000" src="./png/20173008김지원_졸업작품3.png"></img>
+## 기말고사 과제
+<img width="700" height="1000" src="./png/20173008김지원_기말과제1.png"></img>
+<img width="700" height="1000" src="./png/20173008김지원_기말과제2.png"></img>
+<img width="700" height="1000" src="./png/20173008김지원_기말과제3.png"></img>
+
