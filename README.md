@@ -88,6 +88,7 @@ a.
 ## 13주차
 <img width="700" height="1000" src="./png/20173008김지원_13주차과제1.png"></img>
 <img width="700" height="1000" src="./png/20173008김지원_13주차과제2.png"></img>
+<img width="700" height="1000" src="./png/20173008김지원_13주차과제3.png"></img>
 ## 14주차
 <img width="700" height="1000" src="./png/20173008김지원_14주차과제1.png"></img>
 ## 졸업작품
