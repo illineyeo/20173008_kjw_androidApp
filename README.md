@@ -82,9 +82,13 @@ a.
 <img width="700" height="1000" src="./png/20173008김지원_11주차과제2.png"></img>
 ## 12주차
   - 20173008 김지원, 과제제출 합니다.
-  - 에뮬레이터가 자꾸 튕기지만 일단은 올리겠습니다ㅜ.
 <img width="700" height="1000" src="./png/20173008김지원_12주차과제1.png"></img>
-<img width="700" height="1000" src="./png/20173008김지원_12주차과제2.png"></img>
-<img width="700" height="1000" src="./png/20173008김지원_12주차과제3.png"></img>
-
-
+## 13주차
+<img width="700" height="1000" src="./png/20173008김지원_13주차과제1.png"></img>
+<img width="700" height="1000" src="./png/20173008김지원_13주차과제2.png"></img>
+## 14주차
+<img width="700" height="1000" src="./png/20173008김지원_14주차과제1.png"></img>
+## 졸업작품
+<img width="700" height="1000" src="./png/20173008김지원_졸업작품1.png"></img>
+<img width="700" height="1000" src="./png/20173008김지원_졸업작품2.png"></img>
+<img width="700" height="1000" src="./png/20173008김지원_졸업작품3.png"></img>
