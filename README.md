@@ -83,6 +83,8 @@ a.
 ## 12주차
   - 20173008 김지원, 과제제출 합니다.
 <img width="700" height="1000" src="./png/20173008김지원_12주차과제1.png"></img>
+  - 수정본
+<img width="700" height="1000" src="./png/20173008김지원_12주차과제2.png"></img>
 ## 13주차
 <img width="700" height="1000" src="./png/20173008김지원_13주차과제1.png"></img>
 <img width="700" height="1000" src="./png/20173008김지원_13주차과제2.png"></img>
